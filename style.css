@@ -1,0 +1,30 @@
+details{
+    width:auto;
+	height:auto;
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 10px 10px 5px rgb(228, 222, 222);
+	margin:5px;
+	padding:1em;
+    font-family:"宋体";
+}
+
+details summary{
+    outline:none;
+    cursor:pointer; /*鼠标放上后变成手型 */
+    list-style: none;/*删除默认样式的三角形*/
+}
+
+span{
+	width:50px;
+	color:rgb(0, 59, 17);
+	background-color: rgb(176, 230, 178);
+	border-radius: 5px;
+	font-family:"宋体"；
+	font-size:14px;
+	padding:2px;
+}
+
+body{
+	background-color: rgb(217, 217, 217);
+}
